@@ -1,5 +1,5 @@
 <img
-src = "img/Profile_Images_GitHub_Portfolio/IMG_1314.jpg"
+src = "img/Profile_Images_GitHub_Portfolio/IMG_0788.jpg"
 alt = "Skiier Profile Pic"
 Width = "25%">
 # Earth Data Science portfolio: Climate Change, Environmental Science, and Wildfire Mitigation
