@@ -1,3 +1,7 @@
+<img
+src = "img/Profile_Images_GitHub_Portfolio/IMG_1314.jpg"
+alt = "Skiier Profile Pic"
+Width = "25%">
 ![skiier profile pic](img/Profile_Images_GitHub_Portfolio/IMG_1314.jpg)
 # Earth Data Science portfolio: Climate Change, Environmental Science, and Wildfire Mitigation
 * almo1024@colorado.edu
