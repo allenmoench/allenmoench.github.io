@@ -1,5 +1,4 @@
 # Earth Data Science portfolio: Climate Change, Environmental Science, and Wildfire Mitigation
-## Allen-Michael Moench
 * almo1024@colorado.edu
 * https://www.linkedin.com/in/allen-michael-moench-b04a6465/
 ### Background & Introduction
