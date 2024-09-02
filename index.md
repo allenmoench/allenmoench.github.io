@@ -1,3 +1,4 @@
+![skiier profile pic](img/Profile_Images_GitHub_Portfolio/IMG_1314.jpg)
 # Earth Data Science portfolio: Climate Change, Environmental Science, and Wildfire Mitigation
 * almo1024@colorado.edu
 * https://www.linkedin.com/in/allen-michael-moench-b04a6465/
