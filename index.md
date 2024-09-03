@@ -5,6 +5,7 @@ Width = "25%">
 # Earth Data Science portfolio: Climate Change, Environmental Science, and Wildfire Mitigation
 * almo1024@colorado.edu
 * https://www.linkedin.com/in/allen-michael-moench-b04a6465/
+  
 ### Background & Introduction
 Hello! I'm Allen Moench (I usually go by Michael). I graduated with a B.A. from Western Washington University back in 2013. While at school there I self-designed a program of study that focused on Sustainability through the lenses of Human Systems, Natural Systems, and Communication. As part of this I pursued a minor in Environmental Science which allowed me to examine many different "layers" of the environment. I took classes in biology, chemistry, ecology, geology, water quality, climate change, oceanography, and environmental systems among others. 
 
