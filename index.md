@@ -13,5 +13,5 @@ Since graduating I've worked in a wide variety of roles including landscaping, c
 
 I have several goals in studying Earth Data Analysis. In particular, I want to research climate solutions. By this I mean not simply lowering humanity's CO2 output (although this is important), but a diverse array of innovations that benefit society on multiple levels. I want to research these solutions in a deep, technical, and rigorous manner so that they can be applied throughout society and help us all move towards an ideal, sustainable future. I'm looking into grad school at CU, and I'm excited to connect with the larger community of evnironmental and data scientists here in Boulder. If you see something in my work that you like, please get in touch!
 #### Python practice: Map of UTTC
-<embed type="text/html" src="img/uttc.html" width="600" height="600">
+<embed type="text/html" src="img/wwu.html" width="600" height="600">
 Above I've added a map of United Tribes Technical College. This is my first attempt at coding an interactive map using Python.
