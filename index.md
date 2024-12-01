@@ -14,9 +14,9 @@ Since graduating I've worked in a wide variety of roles including landscaping, c
 I have several goals in studying Earth Data Analysis. In particular, I want to research climate solutions. By this I mean not simply lowering humanity's CO2 output (although this is important), but a diverse array of innovations that benefit society on multiple levels. I want to research these solutions in a deep, technical, and rigorous manner so that they can be applied throughout society and help us all move towards an ideal, sustainable future. I'm looking into grad school at CU, and I'm excited to connect with the larger community of evnironmental and data scientists here in Boulder. If you see something in my work that you like, please get in touch!
 
 #### Earth Data Analysis projects in Python
+
+The following are some projects from my Earth Data Analysis class at CU Boulder. Be aware - some of these are a works in progress! I'm fairly new to python, so my coding and my methods might still need some work. I'm always open to feedback and comments on this, so please alert me if you see something.
+
 [First Map assignment](https://allenmoench.github.io/first_map.html)
 
-<embed type="text/html" src="img/wwu.html" width="600" height="600">
-
-
-#### [Climate Coding: Sondrestrom, GL](https://allenmoench.github.io/climate_coding.html)
+[Climate Coding: Sondrestrom, GL](https://allenmoench.github.io/climate_coding.html)
