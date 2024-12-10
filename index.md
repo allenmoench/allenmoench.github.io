@@ -15,7 +15,7 @@ I have several goals in studying Earth Data Analysis. In particular, I want to r
 
 #### Earth Data Analysis projects in Python
 
-The following are some projects from my Earth Data Analysis class at CU Boulder. Be aware - some of these are a works in progress! I'm fairly new to python, so my coding and my methods might still need some work. I'm always open to feedback and comments on this, so please alert me if you see something.
+The following are some projects from my Earth Data Analysis class at CU Boulder. Be aware - some of these are works in progress! I'm fairly new to python, so my coding and my methods might still need some work. I'm always open to feedback and comments on this, so please alert me if you see something.
 
 [First Map assignment](https://allenmoench.github.io/first_map.html)
 
