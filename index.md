@@ -23,6 +23,8 @@ The following are some projects from my Earth Data Analysis class at CU Boulder.
 
 [Species Migration: Megaptera novaeangliae](https://allenmoench.github.io/whale_migration2.html)
 
+[Habitat Suitability: Sorghastrum nutans](https://allenmoench.github.io/habitat_suitability_portfolio_01(2).html)
+
 This one is a Vector GIS project:
 
 [Gold Hill Wildfire "risk"](https://allenmoench.github.io/GH_wildfire.md)
