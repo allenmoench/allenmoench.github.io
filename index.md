@@ -19,7 +19,7 @@ The following are some projects from my Earth Data Analysis class at CU Boulder.
 
 [First Map assignment](https://allenmoench.github.io/first_map.html)
 
-[Climate Coding: Sondrestrom, GL](https://allenmoench.github.io/climate_coding.html)
+[Climate Coding: Sondrestrom, GL](https://allenmoench.github.io/climate_12_portfolio_03(2).html)
 
 [Species Migration: Megaptera novaeangliae](https://allenmoench.github.io/whale_migration2.html)
 
