@@ -29,4 +29,4 @@ The following are some projects from my Earth Data Analysis class at CU Boulder.
 
 This one is a Vector GIS project:
 
-[Gold Hill Wildfire "risk"](https://allenmoench.github.io/GH_wildfire.md)
+[Gold Hill Wildfire "risk"](https://allenmoench.github.io/gh_wildfire_report.html)
