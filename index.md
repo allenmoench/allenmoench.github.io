@@ -29,6 +29,8 @@ The following are some projects from my Earth Data Analysis class at CU Boulder.
 
 [Fourmile Canyon Subwatershed](https://allenmoench.github.io/clustering_03_portfolio.html)
 
+[Chicago Redlining](https://allenmoench.github.io/big-data.html)
+
 This one is a Vector GIS project:
 
 [Gold Hill Wildfire "risk"](https://allenmoench.github.io/gh_wildfire_report.html)
