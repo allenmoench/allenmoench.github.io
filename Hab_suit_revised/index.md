@@ -5,8 +5,7 @@
 [04](allenmoench.github.io/hab_suit_revised/hab_04_soil_tiles.html)
 [05a](allenmoench.github.io/hab_suit_revised/hab_05a_elevation.html)
 [05b](allenmoench.github.io/hab_suit_revised/hab_05b_elevation.html)
-[06](allenmoench.github.io/hab_suit_revised/
-06a
+[06a](allenmoench.github.io/hab_suit_revised/hab_06a_macav2.html)
 06b
 06c
 07a
