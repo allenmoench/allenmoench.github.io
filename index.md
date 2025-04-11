@@ -25,6 +25,8 @@ The following are some projects from my Earth Data Analysis class at CU Boulder.
 
 [Habitat Suitability: Sorghastrum nutans](https://allenmoench.github.io/habitat_suitability_portfolio_01(2).html)
 
+[Habitat Suitability: Andropogon gerardii](https://allenmoench.github.io/Hab_suit_revised.html)
+
 [Fourmile Canyon Subwatershed](https://allenmoench.github.io/clustering_03_portfolio.html)
 
 This one is a Vector GIS project:
