@@ -34,6 +34,8 @@ The following are some projects from my Earth Data Analysis class at CU Boulder.
 
 [Fourmile Canyon Subwatershed](https://allenmoench.github.io/clustering_03_portfolio.html)
 
+[Complicated Complexes!](https://allenmoench.github.io/complicated_complexes_blog.html)
+
 [Chicago Redlining](https://allenmoench.github.io/big-data.html)
 
 This one is a Vector GIS project:
